@@ -3,9 +3,7 @@
 //Febuary 28th
 //Data Structures
 
-//The idea for this program is to basically read in a node and perform
-//functions on a noding such as finding Strings or integers returning them to the user
-// as well as performing mathamtical operations on the numbers themselves
+//Node 
 
 public class Node {
 
